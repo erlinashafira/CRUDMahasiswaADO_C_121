@@ -15,6 +15,7 @@ namespace CRUDMahasiswaADO
     {
         public static string GetConnectionString()
         {
+            // koneksi database utama
             string connectionString = "Data Source=erlinaaa\\ERLINASHAFIRA;Initial Catalog=DBAkademikADO;Integrated Security=True";
             return connectionString;
         }
