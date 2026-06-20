@@ -230,6 +230,7 @@ namespace CRUDMahasiswaADO
             LoadData();
         }
 
+        // menampilkan data mahasiswa ke DataGridView
         private void LoadData()
         {
             try
