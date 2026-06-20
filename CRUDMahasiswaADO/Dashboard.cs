@@ -46,6 +46,7 @@ namespace CRUDMahasiswaADO
             loadDataChart();
         }
 
+        // memuat grafik jumlah mahasiswa
         public void loadDataChart()
         {
             chartProdi.Series.Clear();
