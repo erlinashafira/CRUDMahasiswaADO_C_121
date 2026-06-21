@@ -1,5 +1,4 @@
-fitur
-
+##fitur
 - Menampilkan data mahasiswa
 - Menambahkan data mahasiswa
 - Mengubah data mahasiswa
@@ -9,7 +8,7 @@ fitur
 - Mengimpor data dari file Excel
 - Mencetak laporan menggunakan Crystal Report
 
-aplikasi yang di gunakan
+##aplikasi yang di gunakan
 - C#
 - Windows Forms
 - ADO.NET
@@ -17,8 +16,8 @@ aplikasi yang di gunakan
 - Crystal Report
 - Inno Setup
 
-link video instalasi
+##link video instalasi
 https://github.com/erlinashafira/CRUDMahasiswaADO_C_121/blob/master/video%20install.mp4
 
-link video demo
+##link video demo
 https://github.com/erlinashafira/CRUDMahasiswaADO_C_121/blob/master/demo%20aplikasi.mp4
