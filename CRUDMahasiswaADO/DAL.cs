@@ -26,6 +26,7 @@ namespace CRUDMahasiswaADO
         DataTable dtMahasiswa;
         DataTable dtProdi;
 
+        // Menghitung jumlah total mahasiswa
         public int CountMhs()
         {
             if (conn.State == ConnectionState.Closed)
