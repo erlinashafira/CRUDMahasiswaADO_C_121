@@ -95,6 +95,8 @@ namespace CRUDMahasiswaADO
                 conn.Close();
             }
         }
+
+        // Memperbarui data mahasiswa
         public void UpdateMhs(string nim, string nama, string jk, DateTime tglLahir, string alamat, string kodeProdi, byte[] foto)
         {
             if (conn.State == ConnectionState.Closed)
