@@ -46,6 +46,7 @@ namespace CRUDMahasiswaADO
             return Convert.ToInt32(outputParam.Value);
         }
 
+        // Menampilkan seluruh data mahasiswa
         public DataTable GetMhs()
         {
             if (conn.State == ConnectionState.Closed)
